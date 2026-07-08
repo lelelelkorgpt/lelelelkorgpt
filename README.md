@@ -2,8 +2,9 @@
 ```css
 ┌[lelelelkorgpt@git]-(~)
 └> mefetch
+
 name = lelelelkorgpt
-contact = lelelelkorgpt@gmail.com.com
+contact = lelelelkorgpt@gmail.com
 interest = Cyber-security | Linux | AI | TUI apps | Hardware | OSINT
 birth date = 16/06/2011
 
@@ -19,7 +20,7 @@ birth date = 16/06/2011
 <!--  -->
 <p align="center">
   
-  (https://github-readme-streak-stats.herokuapp.com?user=lelelelkorgpt&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lelelelkorgpt&theme=dark&date_format=j%20M%5B%20Y%5D" alt="lelelelkorgpt's GitHub Streak" /></a>
   
   <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
