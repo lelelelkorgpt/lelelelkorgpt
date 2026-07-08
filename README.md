@@ -13,7 +13,7 @@ birth date = 16/06/2011
  [![Discord: lelelelkorgpt](https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/discord.png)](https://discord.gg/7vn53BZd)
 <!-- Github Stats -->
 
-##Github Stats 
+## Github Stats 
 
 [![lelelelkorgpt's GitHub stats](https://github-stats-extended.vercel.app/api?username=lelelelkorgpt&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
