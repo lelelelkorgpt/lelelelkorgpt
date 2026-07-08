@@ -6,7 +6,7 @@
 name = lelelelkorgpt
 contact = lelelelkorgpt@gmail.com
 interest = Cyber-security | Linux | AI | TUI apps | Hardware | OSINT
-age = 14
+age = 15
 
 ```
  [![GitHubFollowers: lelelelkorgpt](https://img.shields.io/github/followers/lelelelkorgpt?style=social)](https://github.com/lelelelkorgpt)
