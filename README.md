@@ -52,9 +52,14 @@ Keyboard = a random old dell keyboard from my school
 Loudspeaker = logitech x140
 ```
 
+## OS
+
+
 
 <!--
 **lelelelkorgpt/lelelelkorgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
