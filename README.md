@@ -8,7 +8,8 @@ interest = Cyber-security | Linux | AI | TUI apps | Hardware | OSINT
 birth date = 16/06/2011
 
 ```
-
+ [![GitHubFollowers: lelelelkorgpt](https://img.shields.io/github/followers/lelelelkorgpt?style=social)](https://github.com/lelelelkorgpt)
+ [![Discord: lelelelkorgpt](https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/discord.png)](https://discord.gg/7vn53BZd)
 <!-- Github Stats -->
 
 <h3 align="center"> Github Stats </h3>
@@ -21,8 +22,8 @@ birth date = 16/06/2011
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mmsaeed509&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
   
-  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only"/>
-  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/snake-dark.svg#gh-light-mode-only"/>
+  <img src="https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/snake-dark.svg#gh-dark-mode-only"/>
   
 </p>
 <!--
