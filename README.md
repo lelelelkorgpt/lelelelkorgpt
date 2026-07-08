@@ -1,10 +1,10 @@
 ## Hi there 👋
-```bash
+```css
 ┌[lelelelkorgpt@git]-(~)
 └> mefetch
 name = lelelelkorgpt
-contact = h.coste6060@gmail.com
-interest = Cyber-security | Linux | AI | TUI apps | Hardware
+contact = lelelelkorgpt@gmail.com.com
+interest = Cyber-security | Linux | AI | TUI apps | Hardware | OSINT
 birth date = 16/06/2011
 
 ```
@@ -13,29 +13,9 @@ birth date = 16/06/2011
 
 <h3 align="center"> Github Stats </h3>
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lelelelkorgpt&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lelelelkorgpt&screen_effect=true&theme=crt">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lelelelkorgpt&theme=crt">
-</picture>
+[![lelelelkorgpt's GitHub stats](https://github-stats-extended.vercel.app/api?username=lelelelkorgpt&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-
-<!--
-            &nbsp; -> space
-            &emsp; -> 4x(&nbsp;)
--->
-
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=lelelelkorgpt&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="lelelelkorgpt's stats" />
-</p>
-
-<p align="left">
-    <img height="165" src="https://github-readme-stats-lelelelkorgpt.vercel.app/api?username=lelelelkorgpt&count_private=true&include_all_commits=true&theme=tokyonight" alt="lelelelkorgpt's stats" /> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats-lelelelkorgpt.vercel.app/api/top-langs/?username=lelelelkorgpt&layout=compact&theme=tokyonight" alt="lelelelkorgpt top language stats" />
-</p>
-
-
-
+![lelelelkorgpt's Top Langages](https://github-stats-extended.vercel.app/api/top-langs/?username=lelelelkorgpt&layout=compact&show_icons=true&theme=dark)
 <!--  -->
 <p align="center">
   
@@ -50,12 +30,12 @@ birth date = 16/06/2011
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ProvidOS
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: lelelelkorgpt@gmail.com
+- 😄 Pronouns: lelelelkorgpt, Lk_du_6060
+- ⚡ Fun fact: i climb very well !!!
 -->
