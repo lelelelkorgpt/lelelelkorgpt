@@ -13,7 +13,7 @@ birth date = 16/06/2011
  [![Discord: lelelelkorgpt](https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/discord.png)](https://discord.gg/7vn53BZd)
 <!-- Github Stats -->
 
-<h3 align="center"> Github Stats </h3>
+##<h3 align="center"> Github Stats </h3>
 
 [![lelelelkorgpt's GitHub stats](https://github-stats-extended.vercel.app/api?username=lelelelkorgpt&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
@@ -42,10 +42,8 @@ birth date = 16/06/2011
 <details>
    <summary><h2> More About Me </h2></summary>
 
-### [My Setup](/MySetup/README.md)
+## [My Setup](/MySetup/README.md)
 
-
--------My Setup --------
 ```Hardware
 Laptop = Thinkpad T470 + 8Go RAM + i5
 Screen = Samsung syncmaster 1920 X 1080,75 Hz
