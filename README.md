@@ -39,8 +39,18 @@ birth date = 16/06/2011
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
 
+<details>
+   <summary><h2> More About Me </h2></summary>
 
 ### [My Setup](/MySetup/README.md)
+
+
+-------My Setup --------
+Laptop = Thinkpad T470 + 8Go RAM + i5
+Screen = Samsung syncmaster 1920 X 1080,75 Hz
+Mouse = Random Mouse from Aldi
+Keyboard = a random old dell keyboard from my school
+Loudspeaker = logitech x140
 
 
 
