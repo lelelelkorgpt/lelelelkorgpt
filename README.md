@@ -1,7 +1,7 @@
 ## Hi there 👋
 ```css
 ┌[lelelelkorgpt@git]-(~)
-└> mefetch
+└> whoami
 
 name = lelelelkorgpt
 contact = lelelelkorgpt@gmail.com
