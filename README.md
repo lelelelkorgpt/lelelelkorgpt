@@ -30,14 +30,14 @@ birth date = 16/06/2011
 
 
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)>
-[![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=in>
-[![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=in>
-[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=i>
-[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)]>
-[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=>
-[![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&>
-[![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&>
+[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
+[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://gitlab.com/)
+[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
+[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
+[![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
+[![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
 
 
 ### [My Setup](/MySetup/README.md)
