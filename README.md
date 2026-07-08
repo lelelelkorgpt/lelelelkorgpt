@@ -27,6 +27,23 @@ birth date = 16/06/2011
   <img src="https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/snake-dark.svg#gh-dark-mode-only"/>
   
 </p>
+
+
+[![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)>
+[![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=in>
+[![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=in>
+[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=i>
+[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)]>
+[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=>
+[![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&>
+[![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&>
+
+
+### [My Setup](/MySetup/README.md)
+
+
+
 <!--
 **lelelelkorgpt/lelelelkorgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
