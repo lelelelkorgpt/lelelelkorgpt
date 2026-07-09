@@ -1,6 +1,4 @@
-<div align="center">
-
-# 👋 Hi there
+## Hi there 👋
 
 ```css
 ┌[lelelelkorgpt@git]-(~)
@@ -10,7 +8,10 @@ name = lelelelkorgpt
 contact = lelelelkorgpt@gmail.com
 interest = Cyber-security | Linux | AI | TUI apps | Hardware | OSINT
 age = 15
+
 ```
+
+<div align="center">
 
 [![GitHubFollowers: lelelelkorgpt](https://img.shields.io/github/followers/lelelelkorgpt?style=social)](https://github.com/lelelelkorgpt)
 [![Discord: lelelelkorgpt](https://github.com/lelelelkorgpt/lelelelkorgpt/blob/main/src/img/discord.png)](https://discord.gg/7vn53BZd)
